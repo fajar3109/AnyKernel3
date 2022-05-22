@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Elaina Kernel by fajar3109
+kernel.string=NekoKernel by fajar3109
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -15,7 +15,7 @@ device.name2=willow
 device.name3=
 device.name4=
 device.name5=
-supported.versions=10.0-12.0
+supported.versions=9.0-11.0
 supported.patchlevels=
 '; } # end properties
 
