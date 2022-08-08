@@ -4,18 +4,20 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Elaina Kernel by fajar3109
+kernel.string=Liquid Kernel by fajar3109
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=ginkgo
-device.name2=willow
-device.name3=
-device.name4=
-device.name5=
-supported.versions=10.0-12.0
+device.name1=fleur
+device.name2=miel
+device.name3=miel_p
+device.name4=spaced
+device.name5=RMX3151
+device.name6=
+device.name7=
+supported.versions=11.0-13.0
 supported.patchlevels=
 '; } # end properties
 
