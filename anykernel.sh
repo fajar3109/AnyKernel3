@@ -15,8 +15,8 @@ device.name2=miel
 device.name3=miel_p
 device.name4=spaced
 device.name5=RMX3151
-device.name6=
-device.name7=
+device.name6=ginkgo
+device.name7=willow
 supported.versions=11.0-13.0
 supported.patchlevels=
 '; } # end properties
